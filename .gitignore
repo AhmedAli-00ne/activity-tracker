@@ -1,2 +1,5 @@
 agent/bin/
 *.exe
+
+# Unfinished draft, not part of the handoff.
+docs/superpowers/specs/2026-10-18-activity-tracker-design.md
